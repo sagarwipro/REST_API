@@ -1,0 +1,3 @@
+#this file will prevent below files from uplodation.
+.env
+node_modules
