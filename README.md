@@ -1,3 +1,14 @@
+# Required Application
+
+**Code Editor Tool i.e.,Visual studio code**<br/>
+**Node JS**<br/>
+**Nodemon** Not mendatory<br/>
+**PHP Mailer**<br/>
+**MySQL**<br/>
+**PHP**<br/>
+**Updated Browser**<br/>
+
+
 # Technologies
 
 I used POSTMAN, Node.JS, Express, MySQL, JS and JSON mainly.<br/>
